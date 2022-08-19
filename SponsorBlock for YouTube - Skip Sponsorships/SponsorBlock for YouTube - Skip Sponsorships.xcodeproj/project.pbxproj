@@ -690,7 +690,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = app.ajay.sponsor.macos.extension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.titantech.3P.app.ajay.sponsor.extension;
 				PRODUCT_NAME = "SponsorBlock for YouTube - Skip Sponsorships Extension";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -722,7 +722,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = app.ajay.sponsor.macos.extension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.titantech.3P.app.ajay.sponsor.extension;
 				PRODUCT_NAME = "SponsorBlock for YouTube - Skip Sponsorships Extension";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -763,7 +763,7 @@
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = app.ajay.sponsor.macos;
+				PRODUCT_BUNDLE_IDENTIFIER = com.titantech.3P.app.ajay.sponsor;
 				PRODUCT_NAME = "SponsorBlock for YouTube - Skip Sponsorships";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -801,7 +801,7 @@
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = app.ajay.sponsor.macos;
+				PRODUCT_BUNDLE_IDENTIFIER = com.titantech.3P.app.ajay.sponsor;
 				PRODUCT_NAME = "SponsorBlock for YouTube - Skip Sponsorships";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -833,7 +833,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = app.ajay.sponsor.macos.extension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.titantech.3P.app.ajay.sponsor.extension;
 				PRODUCT_NAME = "SponsorBlock for YouTube - Skip Sponsorships Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -864,7 +864,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = app.ajay.sponsor.macos.extension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.titantech.3P.app.ajay.sponsor.extension;
 				PRODUCT_NAME = "SponsorBlock for YouTube - Skip Sponsorships Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -901,7 +901,7 @@
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = app.ajay.sponsor.macos;
+				PRODUCT_BUNDLE_IDENTIFIER = com.titantech.3P.app.ajay.sponsor;
 				PRODUCT_NAME = "SponsorBlock for YouTube - Skip Sponsorships";
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -937,7 +937,7 @@
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = app.ajay.sponsor.macos;
+				PRODUCT_BUNDLE_IDENTIFIER = com.titantech.3P.app.ajay.sponsor;
 				PRODUCT_NAME = "SponsorBlock for YouTube - Skip Sponsorships";
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;

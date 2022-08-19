@@ -16,7 +16,7 @@ import SafariServices
 typealias PlatformViewController = NSViewController
 #endif
 
-let extensionBundleIdentifier = "app.ajay.sponsor.macos.extension"
+let extensionBundleIdentifier = "com.titantech.3P.app.ajay.sponsor.extension"
 
 class ViewController: PlatformViewController, WKNavigationDelegate, WKScriptMessageHandler {
 
